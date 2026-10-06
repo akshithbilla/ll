@@ -1,3 +1,7 @@
+Replace the entire ### Required Clarifications (NEEDS CLARIFICATION) section with the following ### Resolved Decisions section. Delete all existing clarification bullets in that section. Remove every occurrence of NEEDS CLARIFICATION related to US-02 and US-05. Do not add, invent, or ask any new clarification questions. Do not modify unrelated sections of plan.md. Use the following decisions exactly as specified:
+
+
+
 ### Resolved Decisions
 
 #### US-02 - Edit Event Details
